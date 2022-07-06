@@ -20,7 +20,7 @@ has_many :posts
 | Column        | Type       | Options                        |
 | -------       | ---------- | ------------------------------ |
 | title         | string     | null: false                    |
-| text          | integer    | null: false                    |
+| text          | text       | null: false                    |
 | place         | string     | null: false                    |
 | user          | references | null: false, foreign_key: true |
 
