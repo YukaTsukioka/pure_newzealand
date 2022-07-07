@@ -23,8 +23,8 @@ RSpec.describe User, type: :model do
       it 'emailが空では登録できない' do
         @user.email = ''
         @user.valid?
-       
-        expect(@user.errors.full_messages).to include("")
+        binding.pry
+        expect(@user.errors.full_messages).to include("Email can't be blank")
       end
       it '重複したemailが存在する場合は登録できない' do
         @user.save
