@@ -1,10 +1,10 @@
 <div class="items-sell-contents">
   <header class="items-sell-header">
-    <%= link_to image_tag('furima-logo-color.png' , size: '185x50'), "/" %>
+    <%= link_to image_tag('sheepicon.png' , size: '150x110'), "/" %>
 
   </header>
   <div class="items-sell-main">
-    <h2 class="items-sell-title">商品の情報を入力</h2>
+    <h2 class="items-sell-title">ニュージーランドの投稿の情報を入力</h2>
     <%= form_with(model: @post, local: true) do |f| %>
 
     <%# インスタンスを渡して、エラー発生時にメッセージが表示されるようにしましょう。%>
@@ -37,7 +37,7 @@
          画像の説明（場所、おすすめポイントなど）
           <span class="indispensable">必須</span>
         </div>
-        <%= f.text_area :text, class:"items-text", id:"item-info", placeholder:"商品の説明（必須 1,000文字まで）（色、素材、重さ、定価、注意点など）例）2010年頃に1万円で購入したジャケットです。ライトグレーで傷はありません。あわせやすいのでおすすめです。" ,rows:"7" ,maxlength:"1000" %>
+        <%= f.text_area :text, class:"items-text", id:"item-info", placeholder:"投稿画像の説明（必須 1,000文字まで）ニュージーランドの魅力を伝えましょう!!! 例）北島にある綺麗なビーチ。サーフィンやカヤックなど色んなアクティビティーが楽しめます！" ,rows:"7" ,maxlength:"1000" %>
       </div>
     </div>
     <%# /商品名と商品説明 %>
@@ -50,18 +50,18 @@
     <%# 注意書き %>
     <div class="caution">
       <p class="sentence">
-        <a href="#">禁止されている出品、</a>
-        <a href="#">行為</a>
+        <a href="#">適切な画像、</a>
+        <a href="#">説明である事を</a>
         を必ずご確認ください。
       </p>
       <p class="sentence">
-        またブランド品でシリアルナンバー等がある場合はご記載ください。
-        <a href="#">偽ブランドの販売</a>
+        投稿には責任を持ち、誰がみても楽しめるものにしましょう。
+        <a href="#">不適切な投稿</a>
         は犯罪であり処罰される可能性があります。
       </p>
       <p class="sentence">
-        また、出品をもちまして
-        <a href="#">加盟店規約</a>
+        また、投稿をもちまして
+        <a href="#">Pure NewZealand 規約</a>
         に同意したことになります。
       </p>
     </div>
@@ -78,12 +78,12 @@
   <footer class="items-sell-footer">
     <ul class="menu">
       <li><a href="#">プライバシーポリシー</a></li>
-      <li><a href="#">フリマ利用規約</a></li>
+      <li><a href="#">Pure NewZealand 利用規約</a></li>
       <li><a href="#">特定商取引に関する表記</a></li>
     </ul>
-    <%= link_to image_tag('furima-logo-color.png' , size: '185x50'), "/" %>
+    <%= link_to image_tag('icon_camera.png' , size: '140x50'), "/" %>
     <p class="inc">
-      ©︎Furima,Inc.
+      ©︎Pure NewZealand,Inc.
     </p>
   </footer>
 </div>
