@@ -21,7 +21,6 @@ has_many :posts
 | -------       | ---------- | ------------------------------ |
 | title         | string     | null: false                    |
 | text          | text       | null: false                    |
-| place         | string     | null: false                    |
 | user          | references | null: false, foreign_key: true |
 
 
