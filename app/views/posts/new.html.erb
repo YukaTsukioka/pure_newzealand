@@ -31,13 +31,13 @@
         タイトル
         <span class="indispensable">必須</span>
       </div>
-      <%= f.text_area :title, class:"items-text", id:"item-name", placeholder:"商品名（必須 40文字まで)", maxlength:"40" %>
+      <%= f.text_area :title, class:"items-text", id:"item-name", placeholder:"（必須 40文字まで) 例）ニュージーランドの綺麗な景色と空気！", maxlength:"40" %>
       <div class="items-explain">
         <div class="weight-bold-text">
          画像の説明（場所、おすすめポイントなど）
           <span class="indispensable">必須</span>
         </div>
-        <%= f.text_area :text, class:"items-text", id:"item-info", placeholder:"投稿画像の説明（必須 1,000文字まで）ニュージーランドの魅力を伝えましょう!!! 例）北島にある綺麗なビーチ。サーフィンやカヤックなど色んなアクティビティーが楽しめます！" ,rows:"7" ,maxlength:"1000" %>
+        <%= f.text_area :text, class:"items-text", id:"item-info", placeholder:"投稿画像の説明（必須 1,000文字まで）ニュージーランドの魅力を伝えましょう!!! どこで撮影した写真かも書くと、とてもいいと思います。 例）北島にあるマウントマウンガヌイの綺麗なビーチ。サーフィンやカヤックなど色んなアクティビティーが楽しめる素敵な所！" ,rows:"7" ,maxlength:"1000" %>
       </div>
     </div>
     <%# /商品名と商品説明 %>
