@@ -23,7 +23,7 @@
     </div>
     <ul class='item-lists'>
 
-      <%# 商品のインスタンス変数になにか入っている場合、中身のすべてを展開できるようにしましょう %>
+     
      <% @posts.each do |post| %>
       <li class='list'>
        <%= link_to posts_path(post.id) do %>
@@ -48,7 +48,7 @@
         <% end %>
       </li>
      <% end %> 
-      <%# //商品のインスタンス変数になにか入っている場合、中身のすべてを展開できるようにしましょう %>
+     
      
 
   <% if @posts.length == 0 %>
