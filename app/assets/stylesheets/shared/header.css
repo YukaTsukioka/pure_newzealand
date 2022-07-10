@@ -17,7 +17,8 @@
 }
 
 .furima-icon {
-  width: 10vw;
+  width: 9vw;
+  height: 100px;
   margin-right: 10vw;
 }
 
@@ -76,7 +77,6 @@
 .logout {
   text-decoration: none;
   color: white;
-  
 }
 
 .login {
