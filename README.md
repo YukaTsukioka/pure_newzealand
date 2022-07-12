@@ -75,7 +75,7 @@ https://docs.google.com/spreadsheets/d/1qQmEbWPLVSd8et6LH19cbh7i6bBq7pWoxY_gUWE_
 
 # 画面遷移図
 
-
+[![Image from Gyazo](https://i.gyazo.com/14467bb41123d735b38aec6c71da8342.png)](https://gyazo.com/14467bb41123d735b38aec6c71da8342)
 
 
 
@@ -113,3 +113,30 @@ belongs_to :user
 # 開発環境
 
 - フロントエンド
+
+- バックエンド
+
+- インフラ
+
+- テキストエディタ
+
+- タスク管理
+
+# ローカルでの動作方法
+
+以下のコマンドを順に実行。
+
+% git clone https://github.com/YukaTsukioka
+
+% cd pure_newzealand
+
+% bundle install
+
+% yarn install
+
+# 工夫したポイント
+
+トップページのヘッダーとフッターに自分でニュージーランドで撮影した画像を使用したことです。
+このシャジンですごくニュージーランドの自然の雰囲気が出たのと、改めて自分が自作したアプリケーションだと思わせてくれるので愛着も沸きました。
+
+
