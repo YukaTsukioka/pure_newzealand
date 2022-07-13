@@ -76,9 +76,11 @@ https://docs.google.com/spreadsheets/d/1qQmEbWPLVSd8et6LH19cbh7i6bBq7pWoxY_gUWE_
 
 [![Image from Gyazo](https://i.gyazo.com/b404e2e6ca98c3c71045fb1f89bc5a8c.jpg)](https://gyazo.com/b404e2e6ca98c3c71045fb1f89bc5a8c)
 
-
-
 5. 自身が投稿した画像をクリックすると詳細ページへ遷移され、”削除”ボタンをクリックすると、トップページへ戻り投稿が削除されていることを確認できます。（自身が投稿した以外の詳細ページには”削除”ボタンは表示されません。）
+
+[![Image from Gyazo](https://i.gyazo.com/bc26d2d7f9fb33f28096912cc09dfca4.jpg)](https://gyazo.com/bc26d2d7f9fb33f28096912cc09dfca4)
+
+[![Image from Gyazo](https://i.gyazo.com/52c4f77f19800e5c0bb3705375696a8d.jpg)](https://gyazo.com/52c4f77f19800e5c0bb3705375696a8d)
 
 
 6. トップページ右上にある”ログイン”ボタンを押すと、ログインページへ遷移し必要な情報を入力し”ログイン”ボタンをクリックするとログインしトップページに戻ります。表示がユーザー名に変わりログインしていることが確認できます。適切な情報が入力されていない場合はエラーメッセージが出るよう設定しています。
