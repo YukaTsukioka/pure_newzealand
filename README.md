@@ -78,7 +78,7 @@ https://docs.google.com/spreadsheets/d/1qQmEbWPLVSd8et6LH19cbh7i6bBq7pWoxY_gUWE_
 
 5. 自身が投稿した画像をクリックすると詳細ページへ遷移され、”削除”ボタンをクリックすると、トップページへ戻り投稿が削除されていることを確認できます。（自身が投稿した以外の詳細ページには”削除”ボタンは表示されません。）
 
-[![Image from Gyazo](https://i.gyazo.com/bc26d2d7f9fb33f28096912cc09dfca4.jpg)](https://gyazo.com/bc26d2d7f9fb33f28096912cc09dfca4)
+[![Image from Gyazo](https://i.gyazo.com/882c3e472a9326a00bfc472bcbc15c1d.jpg)](https://gyazo.com/882c3e472a9326a00bfc472bcbc15c1d)
 
 [![Image from Gyazo](https://i.gyazo.com/52c4f77f19800e5c0bb3705375696a8d.jpg)](https://gyazo.com/52c4f77f19800e5c0bb3705375696a8d)
 
