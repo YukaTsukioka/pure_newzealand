@@ -90,7 +90,14 @@ https://docs.google.com/spreadsheets/d/1qQmEbWPLVSd8et6LH19cbh7i6bBq7pWoxY_gUWE_
 
 7. トップページ右上にある”ログイン”ボタンを押すと、ログインページへ遷移し必要な情報を入力し”ログイン”ボタンをクリックするとログインしトップページに戻ります。表示がユーザー名に変わりログインしていることが確認できます。適切な情報が入力されていない場合はエラーメッセージが出るよう設定しています。
 
+[![Image from Gyazo](https://i.gyazo.com/9710ed095932f50f025a1eeb244032f6.jpg)](https://gyazo.com/9710ed095932f50f025a1eeb244032f6)
 
+
+[![Image from Gyazo](https://i.gyazo.com/466e2c09f393b4033e1a5647afb98941.png)](https://gyazo.com/466e2c09f393b4033e1a5647afb98941)
+
+[![Image from Gyazo](https://i.gyazo.com/1112439fd5c1b2fad551fb5aa3fad5a7.png)](https://gyazo.com/1112439fd5c1b2fad551fb5aa3fad5a7)
+
+[![Image from Gyazo](https://i.gyazo.com/f6c3af3626f234fcd225096cc2e49ea5.jpg)](https://gyazo.com/f6c3af3626f234fcd225096cc2e49ea5)
 
 
 # 実装予定の機能
