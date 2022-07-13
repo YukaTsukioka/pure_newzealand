@@ -46,6 +46,12 @@ https://docs.google.com/spreadsheets/d/1qQmEbWPLVSd8et6LH19cbh7i6bBq7pWoxY_gUWE_
 
 1. 新規登録すると、投稿、編集、削除が出来るようになります。登録の際、必要な情報が適切に入力されていないとエラーが出るよう設定されています。
 
+[![Image from Gyazo](https://i.gyazo.com/f66b5a115a846c22ce6f25093a97b162.png)](https://gyazo.com/f66b5a115a846c22ce6f25093a97b162)
+
+[![Image from Gyazo](https://i.gyazo.com/8c2874f3b74b3a571d608e72f0496571.png)](https://gyazo.com/8c2874f3b74b3a571d608e72f0496571)
+
+[![Image from Gyazo](https://i.gyazo.com/9d2505bf367d868c75c5fa2a2b415b67.jpg)](https://gyazo.com/9d2505bf367d868c75c5fa2a2b415b67)
+
 2. トップページ左下にある投稿ボタンをクリックすると”ニュージーランドの投稿の情報を入力”ページへ遷移され画像、タイトル、画像の説明を入力でき、”投稿する”ボタンをクリックするとトップページへ戻り、投稿一覧の左上に投稿したものを確認することが出来ます。
 
 3. 投稿したものが新しい順で左上に表示されます。
