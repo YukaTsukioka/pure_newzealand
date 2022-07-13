@@ -86,7 +86,7 @@ https://docs.google.com/spreadsheets/d/1qQmEbWPLVSd8et6LH19cbh7i6bBq7pWoxY_gUWE_
 
 [![Image from Gyazo](https://i.gyazo.com/120f1663ca2e2874aed771b3c8034531.jpg)](https://gyazo.com/120f1663ca2e2874aed771b3c8034531)
 
-[![Image from Gyazo](https://i.gyazo.com/c79f1c530fef31603f69f0ac23f98ff4.jpg)](https://gyazo.com/c79f1c530fef31603f69f0ac23f98ff4)
+[![Image from Gyazo](https://i.gyazo.com/ec8886e4987c6945f01f09e41275b681.jpg)](https://gyazo.com/ec8886e4987c6945f01f09e41275b681)
 
 7. トップページ右上にある”ログイン”ボタンを押すと、ログインページへ遷移し必要な情報を入力し”ログイン”ボタンをクリックするとログインしトップページに戻ります。表示がユーザー名に変わりログインしていることが確認できます。適切な情報が入力されていない場合はエラーメッセージが出るよう設定しています。
 
