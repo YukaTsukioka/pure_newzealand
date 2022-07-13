@@ -60,7 +60,12 @@ https://docs.google.com/spreadsheets/d/1qQmEbWPLVSd8et6LH19cbh7i6bBq7pWoxY_gUWE_
 
 [![Image from Gyazo](https://i.gyazo.com/f41c9fd80e08e899f2351578ada2decf.jpg)](https://gyazo.com/f41c9fd80e08e899f2351578ada2decf)
 
-3. ログイン、ログアウトの状態に関わらずトップページ投稿一覧の画像をクリックすると詳細ページへ遷移し詳細を見ることが出来ます。
+3. ログイン、ログアウトの状態に関わらずトップページ投稿一覧の画像をクリックすると詳細ページへ遷移し詳細を見ることが出来ます。自身が投稿していない投稿のs総裁も見れます。
+
+[![Image from Gyazo](https://i.gyazo.com/d47a17539481ab59402c1a27a1046093.jpg)](https://gyazo.com/d47a17539481ab59402c1a27a1046093)
+
+[![Image from Gyazo](https://i.gyazo.com/cdbfae05cc1306fa39efd77fa3546888.jpg)](https://gyazo.com/cdbfae05cc1306fa39efd77fa3546888)
+
 
 4. 自身が投稿した画像をクリックすると詳細ページへ遷移し、編集ボタンをクリックすると編集が出来ます。編集した後”変更する”ボタンをクリックすると詳細ページへ戻り更新を確認できます。編集途中でページ下部の"もどる”ボタンを押すと編集途中の情報は破棄され詳細ページへ遷移されます。
 適切な情報が入力されていないとエラーメッセージが出るよう設定しています。（自身が投稿した以外の詳細ページには”編集”ボタンは表示されません。）
