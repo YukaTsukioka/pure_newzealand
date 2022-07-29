@@ -108,7 +108,7 @@ https://docs.google.com/spreadsheets/d/1qQmEbWPLVSd8et6LH19cbh7i6bBq7pWoxY_gUWE_
 
 # データベース設計
 [![Image from Gyazo](https://i.gyazo.com/b375a6d3be0f3ccd9dc8a1585bcfe73f.png)](https://gyazo.com/b375a6d3be0f3ccd9dc8a1585bcfe73f)
-[![Image from Gyazo](https://i.gyazo.com/68c1f53737d1607dd31e821aa3871a38.png)](https://gyazo.com/68c1f53737d1607dd31e821aa3871a38)
+
 
 
 # 画面遷移図
