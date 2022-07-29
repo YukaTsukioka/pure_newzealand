@@ -100,6 +100,7 @@ https://docs.google.com/spreadsheets/d/1qQmEbWPLVSd8et6LH19cbh7i6bBq7pWoxY_gUWE_
 [![Image from Gyazo](https://i.gyazo.com/f6c3af3626f234fcd225096cc2e49ea5.jpg)](https://gyazo.com/f6c3af3626f234fcd225096cc2e49ea5)
 
 
+
 # 実装予定の機能
 
 - いいね機能、実装予定
