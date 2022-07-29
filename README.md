@@ -134,7 +134,7 @@ https://docs.google.com/spreadsheets/d/1qQmEbWPLVSd8et6LH19cbh7i6bBq7pWoxY_gUWE_
 
 ### Association
 has_many :posts
-
+has_many :comments 
 
 ## posts テーブル
 
@@ -147,8 +147,19 @@ has_many :posts
 
 ### Association
 belongs_to :user
+has_many :comments
 
 ## comments テーブル
+
+| Column        | Type       | Options                        |
+| -------       | ---------- | ------------------------------ |
+| user_id       | integer    | null: false, foreign_key: true |
+| text          | text       | null: false                    |
+| post_id       | references | null: false, foreign_key: true |
+
+### Association
+belongs_to :post
+belongs_to :user  
 
 # 開発環境
 
