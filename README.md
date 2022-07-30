@@ -99,7 +99,7 @@ https://docs.google.com/spreadsheets/d/1qQmEbWPLVSd8et6LH19cbh7i6bBq7pWoxY_gUWE_
 
 [![Image from Gyazo](https://i.gyazo.com/f6c3af3626f234fcd225096cc2e49ea5.jpg)](https://gyazo.com/f6c3af3626f234fcd225096cc2e49ea5)
 
-8. ログインしているユーザーは投稿してある写真をクリックし、詳細ページに遷移しコメント欄からコメントを投稿できる。コメント欄にコメントを書きSENDをクリックすると、コメント一覧にコメントが表示されます。
+8. ログインしているユーザーは投稿してある写真をクリックし、詳細ページに遷移した後、コメント欄からコメントを投稿できる。コメント欄にコメントを書きSENDをクリックすると、コメント一覧にコメントが表示されます。新規登録、ログインしていない場合はコメントが出来ないように設定しています。
 
 [![Image from Gyazo](https://i.gyazo.com/beeb5653ebc11b292e283fcad96f40c9.jpg)](https://gyazo.com/beeb5653ebc11b292e283fcad96f40c9)
 
